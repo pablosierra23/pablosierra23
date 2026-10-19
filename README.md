@@ -7,10 +7,10 @@
   *En constante evolución, motivado por afrontar nuevos retos y siempre con ganas de aprender nuevas tecnologías, optimizar código y crecer profesionalmente en cada proyecto.*
 
   <p align="center">
-    <a href="mailto:pablosg1008@gmail.com">
+    <a href="pablosg1008@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <a href="https://www.linkedin.com/in/pablo-sierra-garrido-33bb393a5/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
